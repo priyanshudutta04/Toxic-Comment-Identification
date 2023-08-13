@@ -1,4 +1,4 @@
-# Toxic-Comment_Classification
+# Toxic-Comment-Identification
 A machine learning model to predict toxicty and other parameters of a comment using NLP
 
 ## About Dataset
